@@ -1,0 +1,5 @@
+<!DOCTYPE HTML>
+	<body>
+		<h1 align='center'>Home Page</h1>
+	</body>
+</html>
