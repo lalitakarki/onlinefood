@@ -22,7 +22,7 @@ if(isset($_POST['submit1']))
 		$sq12=mysqli_query($con,"INSERT into registrationf values('','$fname','$lname','$contact','$Email','$username','$password','$employee')");
 		if($sq12)
 		{
-			header("Location: index.php?registered=true");
+			header("Location: index1.php?registered=true");
 		}
 	}
 }
